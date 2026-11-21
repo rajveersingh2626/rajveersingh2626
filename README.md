@@ -60,9 +60,9 @@ Transaction ledger simulator based on J.P. Morgan Chase's engineering program. J
 ---
 
 <div align="center">
-  <img src="assets/angel-ascii.png" alt="The Fall of the Rebel Angels — ASCII render" width="720" />
+  <img src="assets/the-fall-of-the-rebel-angels-color.jpg" alt="The Fall of the Rebel Angels — Luca Giordano, c. 1666" width="480" />
   <br/>
-  <sub><em>The Fall of the Rebel Angels (c. 1666) — Luca Giordano &nbsp;|&nbsp; ASCII render from the original oil on canvas</em></sub>
+  <sub><em>The Fall of the Rebel Angels (c. 1666) — Luca Giordano &nbsp;|&nbsp; oil on canvas &nbsp;|&nbsp; Museo del Prado, Madrid</em></sub>
 </div>
 
 ---
