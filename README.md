@@ -36,7 +36,7 @@ A web platform and administration portal built for Rotaract District 3011, suppo
   - Integrated Leaflet for an interactive map showing club locations and zones across the district.
   - Configured Playwright end-to-end tests and automated sitemap generation for public pages.
 
-#### Suhanu Food Companion (food-choose)
+#### Culinary Partner (food-choose)
 A personal meal planning web app built to solve daily decision fatigue around cooking.
 
 - Suggests recipes using the Google Gemini API based on items currently in the kitchen and available prep time.
