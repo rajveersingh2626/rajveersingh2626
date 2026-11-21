@@ -53,6 +53,14 @@ Email ............ <a href="mailto:jasraj2626@gmail.com">jasraj2626@gmail.com</a
 
 ---
 
+### Tech Stack & Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nest,tailwind,postgres,prisma,supabase,redis,docker,cloudflare,postman,git,github,vitest" alt="Tech Stack" />
+</p>
+
+---
+
 ### Featured Projects
 
 **Quotely** ([`Qoutely`](https://github.com/rajveersingh2626/Qoutely))
@@ -87,6 +95,13 @@ AI-driven pantry assistant and smart meal planner progressive web application wi
 **Algorithmic Influence on Political Awareness and Narratives**  
 *How Instagram’s Engagement System Influences the Civic Understanding of the Indian Youth*  
 Suhani Minocha & Rajveer Singh Marwah (October 2025)
+
+<p align="left">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5652570"><img src="https://img.shields.io/badge/SSRN-Preprint%20id5652570-blue?style=flat-square&logo=academia" alt="SSRN" /></a>
+  <a href="https://zenodo.org/records/17434259"><img src="https://img.shields.io/badge/Zenodo-Record%2017434259-2ea44f?style=flat-square&logo=zenodo" alt="Zenodo" /></a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5652570"><img src="https://img.shields.io/badge/Metrics-Downloads%20%26%20Views%20Tracked-8A2BE2?style=flat-square" alt="Metrics" /></a>
+  <a href="https://github.com/rajveersingh2626/research_paper"><img src="https://img.shields.io/badge/Code%20%26%20Data-GitHub%20Repo-black?style=flat-square&logo=github" alt="GitHub" /></a>
+</p>
 
 Empirical computational study investigating algorithmic amplification of entertainment media vs. structural under-prioritization of civic discourse across 220+ verified Indian accounts.
 
