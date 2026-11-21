@@ -1,34 +1,6 @@
-```
-rajveer@delhi
--------------------------------------------------------
-OS ............... Human (Delhi Edition) 18.0 LTS
-Uptime ........... 1st Sem BSc CS (tinkering daily)
-Role ............. System Tinkerer & Full-Stack Builder
-Host ............. New Delhi, India
-Philosophy ....... Current system is merely the first draft
-Status ........... Breaking defaults / coffee: @rajveer_marwah
-
-Stack --------------------------------------------------
-Frontend ......... React 18, Vite, Tailwind CSS, TanStack
-Backend .......... NestJS 11, Express, Node.js
-Database ......... PostgreSQL, Prisma ORM 6, Redis
-Queues & Infra ... BullMQ, Nginx Reverse Proxy, Cloudflare
-AI & Tooling ..... Gemini API, Ollama (LLaMA 3.1), Vitest
-
-Projects -----------------------------------------------
-rac3011-api ...... Multi-tenant district governance API + PDF worker
-rac3011-web ...... React GIS portal + prerender pipeline + GIS map
-culinary-partner . Gemini AI smart pantry & meal planner PWA
-forage-midas ..... J.P. Morgan financial message processing engine
-
-Contact --------------------------------------------------------
-Instagram ........ @rajveer_marwah (hmu for coffee)
-LinkedIn ......... linkedin.com/in/rajveer-singh
-GitHub ........... github.com/rajveersingh2626
-Email ............ jasraj2626@gmail.com
--------------------------------------------------------
-"if a blueprint doesn't exist, i design it."
-```
+<div align="center">
+  <img src="assets/terminal-card.png" alt="Rajveer Singh — System Tinkerer & Full-Stack Builder" width="100%" />
+</div>
 
 ---
 
@@ -53,14 +25,10 @@ Production governance web platform and administrative portal serving 40+ member 
 
 AI-powered smart pantry and meal planner progressive web application. Google Gemini API for recipe recommendations, Supabase for real-time persistence, Framer Motion for fluid interactions.
 
-**Financial Message Processor** (`forage-midas`)
-
-Transaction ledger simulator based on J.P. Morgan Chase's engineering program. Java, Spring Boot, Maven, JUnit.
-
 ---
 
 <div align="center">
-  <img src="assets/the-fall-of-the-rebel-angels-color.jpg" alt="The Fall of the Rebel Angels — Luca Giordano, c. 1666" width="480" />
+  <img src="assets/the-fall-of-the-rebel-angels-color.jpg" alt="The Fall of the Rebel Angels — Luca Giordano, c. 1666" width="520" />
   <br/>
   <sub><em>The Fall of the Rebel Angels (c. 1666) — Luca Giordano &nbsp;|&nbsp; oil on canvas &nbsp;|&nbsp; Museo del Prado, Madrid</em></sub>
 </div>
