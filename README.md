@@ -14,6 +14,12 @@
 
 ### Featured Projects
 
+**Quotely** ([`Qoutely`](https://github.com/rajveersingh2626/Qoutely))
+
+AI-powered commercial insurance operating system for Indian brokerage firms. Ingests proposals, RFQs, and tender slips, maps occupancies to IIB Schedule 3 taxonomy, and executes deterministic underwriting tariff calculations in compliance with All India Fire Tariff (AIFT) regulations.
+
+- Tech: Next.js 15, React 19, Google Gemini 2.0 API, Supabase, PostgreSQL (Row Level Security multi-tenancy), GSAP, Framer Motion, jsPDF, Zod.
+
 **Rotaract District 3011 Platform**
 
 Production governance web platform and administrative portal serving 40+ member clubs across Delhi-NCR.
@@ -21,9 +27,17 @@ Production governance web platform and administrative portal serving 40+ member 
 - Backend [`rac3011-api`](https://github.com/rajveersingh2626/rac3011-api): NestJS 11, Prisma ORM 6, PostgreSQL, BullMQ, Redis, Better Auth with multi-tenant RBAC, PDF-lib document engine, Sentry, Pino.
 - Frontend [`rac3011-web`](https://github.com/rajveersingh2626/rac3011-web): React 18, Vite, Tailwind CSS, TanStack Query, Leaflet GIS district mapping, static prerendering, Playwright E2E testing.
 
+**PeriodFLO** ([`periodflo`](https://github.com/rajveersingh2626/periodflo))
+
+Cross-platform cycle intelligence and partner-synchronization mobile application. Features symptom forecasting, health metric insights, partner notifications, and encrypted local state management.
+
+- Tech: React Native, Expo 52, Expo Router, TypeScript, Vitest.
+
 **Culinary Partner** ([`food-choose`](https://github.com/rajveersingh2626/food-choose))
 
-AI-powered smart pantry and meal planner progressive web application. Google Gemini API for recipe recommendations, Supabase for real-time persistence, Framer Motion for fluid interactions.
+AI-driven pantry assistant and smart meal planner progressive web application with real-time pantry inventory tracking and ingredient-based recipe discovery.
+
+- Tech: React 18, Vite, Google Gemini API, Supabase, Framer Motion, Tailwind CSS.
 
 ---
 
