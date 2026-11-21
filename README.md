@@ -1,6 +1,47 @@
-<div align="center">
-  <img src="assets/terminal-card.png" alt="Rajveer Singh — System Tinkerer & Full-Stack Builder" width="100%" />
-</div>
+<table>
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <img src="assets/angel-ascii.png" alt="Luca Giordano — The Fall of the Rebel Angels (ASCII)" width="100%" />
+    </td>
+    <td width="58%" valign="top">
+
+<pre>
+rajveer@delhi
+-------------------------------------------------------
+OS ............... Human (Delhi Edition) 18.0 LTS
+Uptime ........... 1st Sem BSc CS (tinkering daily)
+Role ............. System Tinkerer & Full-Stack Builder
+Host ............. New Delhi, India
+Philosophy ....... Current system is merely the first draft
+Status ........... Breaking defaults / coffee: @rajveer_marwah
+
+Stack --------------------------------------------------
+Frontend ......... React 19, Next.js 15, Vite, Tailwind CSS
+Backend .......... NestJS 11, Express, Node.js
+Mobile ........... React Native, Expo 52, Expo Router
+Database ......... PostgreSQL, Prisma ORM 6, Supabase, Redis
+Queues & Infra ... BullMQ, Nginx Reverse Proxy, Cloudflare
+AI & Tooling ..... Gemini 2.0 API, Ollama (LLaMA 3.1), Vitest
+
+Projects -----------------------------------------------
+quotely .......... AI commercial insurance OS for brokers
+rac3011-api ...... Multi-tenant district governance API + worker
+rac3011-web ...... React GIS portal + prerender pipeline + map
+periodflo ........ Cycle intelligence & partner sync mobile app
+culinary-partner . Gemini AI smart pantry & meal planner PWA
+
+Contact ------------------------------------------------
+Instagram ........ <a href="https://instagram.com/rajveer_marwah">@rajveer_marwah</a> (hmu for coffee)
+LinkedIn ......... <a href="https://linkedin.com/in/rajveer-singh">in/rajveer-singh</a>
+GitHub ........... <a href="https://github.com/rajveersingh2626">rajveersingh2626</a>
+Email ............ <a href="mailto:jasraj2626@gmail.com">jasraj2626@gmail.com</a>
+-------------------------------------------------------
+"if a blueprint doesn't exist, i design it."
+</pre>
+
+   </td>
+  </tr>
+</table>
 
 ---
 
