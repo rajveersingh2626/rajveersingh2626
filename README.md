@@ -82,6 +82,19 @@ AI-driven pantry assistant and smart meal planner progressive web application wi
 
 ---
 
+### Research & Publications
+
+**Algorithmic Influence on Political Awareness and Narratives**  
+*How Instagram’s Engagement System Influences the Civic Understanding of the Indian Youth*  
+Suhani Minocha & Rajveer Singh Marwah (October 2025)
+
+Empirical computational study investigating algorithmic amplification of entertainment media vs. structural under-prioritization of civic discourse across 220+ verified Indian accounts.
+
+- Methods: Web Scraping, NLP (TextBlob, Textstat, TF-IDF), Mann–Whitney U test ($p < 0.001$, Cliff’s $\Delta = -0.744$), Negative Binomial GLM Regression ($\beta = -3.3664, p < 0.001$), Logistic Regression Classifier (78% accuracy).
+- Links: [SSRN Preprint (id5652570)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5652570) &bull; [Zenodo DOI](https://zenodo.org/records/17434259) &bull; [Code & Datasets Repo](https://github.com/rajveersingh2626/research_paper)
+
+---
+
 <div align="center">
   <img src="assets/the-fall-of-the-rebel-angels-color.jpg" alt="The Fall of the Rebel Angels — Luca Giordano, c. 1666" width="520" />
   <br/>
