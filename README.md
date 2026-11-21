@@ -1,59 +1,65 @@
-# Rajveer Singh
-
-I am a software engineer based in Delhi, working primarily on full-stack web platforms and backend services. Most of my recent work focuses on TypeScript, NestJS, React, PostgreSQL, and integrating language models into practical workflows.
-
-- Email: jasraj2626@gmail.com
-- GitHub: https://github.com/rajveersingh2626
-- LinkedIn: https://linkedin.com
+```text
+*%%%%%@@%*%%%%%%%@@@%%%%@@%%###**#   rajveer@delhi
+*#%%@@@%@#@@@@@@@@@%*+*+#@%%%%%%%*   ---------------------------------------------------------
+%%%%%@@@@%@@@@@@@@@%=+*+*%@%%@%*++   OS ............... Human (Delhi Edition) 18.0 LTS
+%@%%@@@@@@%@@@@%%%%*#@#+%@@%%#+*##   Uptime ........... 1st Sem BSc CS (tinkering daily)
+@@%%@@@@@@@@@%**#*#%@@*-++**==++*#   Role ............. System Tinkerer & Full-Stack Builder
+@%#%%@@@@@@@%%*=#%%@@#===:--:-==**   Host ............. New Delhi, India
+#%%%@@@@@@@@@@@%%%#%@#*@*=-=--=+*#   Philosophy ....... Current system is merely the first draft
+%@@@@@@@@@@%#%%%@%@@#:=#=--*++#%##   Status ........... Breaking defaults / coffee: @rajveer_marwah
+#%%@@@@@%#*++@@*%%@#-:=---=+*#%%%#   
+*#%@@@@@#++++*#+**+-:-:-####***##%   Stack ---------------------------------------------------
++*%@%#**#*=.::++++-=-:.:-*%%%%%@@%   Frontend ......... React 18, Vite, Tailwind CSS, TanStack
+*#%@@%=-=++=--%%*==++--*%*=#@@@%##   Backend .......... NestJS 11, Express, Node.js
+#####%%%#=.::=%%%###*=+@#*:+#%@#*+   Database ......... PostgreSQL, Prisma ORM 6, Redis
++====+#@@@*+-+%@#%+*===+-:-:::-*+=   Queues & Infra ... BullMQ, Nginx Reverse Proxy, Cloudflare
+-::---*#%#*#%%#*#*+#*=-:..:.::.:++   AI & Tooling ..... Gemini API, Ollama (LLaMA 3.1), Vitest
+...:::-----=+++%%=+#*+*=*-::*#**+-   
+     .::::--=--#@+*****-+#***#+-::   Projects ------------------------------------------------
+    .::-:.-=--:*#-+++++::-=---::..   rac3011-api ...... Multi-tenant district governance API + PDF worker
+.....:=+=..--::*%-=----=:.---::::.   rac3011-web ...... React GIS portal + automated prerender pipeline
+.....:+--=..:::*#:=======----::...   culinary-partner . Gemini AI smart pantry & meal planner PWA
+:::::..:-*=...-++-+=*==+==--:.....   forage-midas ..... J.P. Morgan financial message processing engine
+::::::.::-##=..+*=+*%=+=--::......   
+---:::.::::+%#*+#*+%#=--:::.......   Contact -------------------------------------------------
+=*+--::::::..+@@#*#*.-.----::::...   Instagram ........ @rajveer_marwah (hmu for coffee)
+---::-::..::+%@%##*=...--::.....:.   LinkedIn ......... linkedin.com/in/rajveer-singh
+::==..:....+@@%##*-:...     ......   GitHub ........... github.com/rajveersingh2626
++::. .:---=%@@@%+.     ..:::::::..   Email ............ jasraj2626@gmail.com
+=:..-=-=-*#%%@#*:-..-.-=--:-::....   ---------------------------------------------------------
+                                     "if a blueprint doesn't exist, i design it."
+```
 
 ---
 
-### What I Work With
-
-- Languages: TypeScript, JavaScript, Python, C++, Java, SQL
-- Backend & Storage: NestJS, Node.js, Express, PostgreSQL, Prisma ORM, Redis, BullMQ
-- Frontend: React, Next.js, Vite, TanStack Query, Tailwind CSS
-- Infrastructure & Deployment: Nginx, Cloudflare, Docker, AWS S3
-- Testing: Vitest, Playwright, React Testing Library
-- AI & Tooling: Google Gemini API, Anthropic Claude API, Ollama (local inference), Git, Linux
+> "I have a serious problem with the word 'default.'
+> 
+> My philosophy is rooted in the belief that the current system is merely the first draft. If a blueprint doesn't yet exist to solve a complex problem—I'll be busy designing it. If a system is in place, I'll be intensely focused on finding its faults and modifying and iterating new processes to fit in the best and most impactful way possible. (p.s.—don't dismiss it saying 'basically does whatever he wants')
+> 
+> i just like to make systems look easier lol. hmu for coffee on IG [@rajveer_marwah](https://instagram.com/rajveer_marwah)"
 
 ---
 
-### Projects
+### Featured Projects
 
 #### Rotaract District 3011 Platform
-A web platform and administration portal built for Rotaract District 3011, supporting 40+ clubs across the Delhi-NCR region.
+*Production governance web app and administrative backend serving 40+ member clubs.*
+- Backend (`rac3011-api`): NestJS 11, Prisma ORM 6, PostgreSQL, BullMQ, Redis, Better Auth (RBAC), and automated PDF generation.
+- Frontend (`rac3011-web`): React 18, Vite, Tailwind CSS, TanStack Query, Leaflet GIS mapping, and static pre-rendering.
 
-- Backend (rac3011-api):
-  - Built with NestJS, Prisma, and PostgreSQL.
-  - Implemented role-based access control to keep data separated across club officers, zonal representatives, and district admins.
-  - Set up BullMQ and Redis queues to offload heavy tasks like PDF report rendering and file processing.
-  - Added Better Auth for session handling, Sentry for error tracking, and Pino for structured logging.
+#### Culinary Partner (`food-choose`)
+*AI-powered smart pantry and recipe planner progressive web application.*
+- Uses Google Gemini API (`@google/genai`) to recommend low-effort meals based on on-hand ingredients.
+- Real-time persistence via Supabase and fluid mobile interactions with Framer Motion.
 
-- Frontend (rac3011-web):
-  - Built with React 18, Vite, and Tailwind CSS.
-  - Used TanStack Query for caching and server state syncing.
-  - Integrated Leaflet for an interactive map showing club locations and zones across the district.
-  - Configured Playwright end-to-end tests and automated sitemap generation for public pages.
-
-#### Culinary Partner (food-choose)
-A personal meal planning web app built to solve daily decision fatigue around cooking.
-
-- Suggests recipes using the Google Gemini API based on items currently in the kitchen and available prep time.
-- Uses Supabase for data storage, user state, and inventory tracking.
-- Built with React and Framer Motion for responsive UI transitions.
-
-#### Transaction Processing Simulation (forage-midas)
-A financial transaction ledger simulation based on J.P. Morgan Chase's engineering program.
-
-- Built in Java using Spring Boot and Maven.
-- Processes transaction streams, checks account balances, and records validated entries.
-- Includes automated unit and integration tests written with JUnit.
+#### Financial Message Processor (`forage-midas`)
+*Transaction ledger simulator modeled on J.P. Morgan Chase's engineering program.*
+- Built in Java using Spring Boot and Maven with comprehensive JUnit test coverage.
 
 ---
 
-### How I Work
-
-- Write code that is easy to read, test, and maintain over clever one-liners.
-- Keep dependencies lean and pick tools based on the problem, not current hype.
-- Ensure systems handle failure gracefully with proper logging, error boundaries, and input validation.
+<div align="center">
+  <img src="assets/the-fall-of-the-rebel-angels.jpg" alt="The Fall of the Rebel Angels by Luca Giordano" width="420" />
+  <br/>
+  <sub><em>The Fall of the Rebel Angels (La Chute des Anges Rebelles, c. 1666) — Luca Giordano</em></sub>
+</div>
