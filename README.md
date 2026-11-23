@@ -61,6 +61,19 @@ Email ............ <a href="mailto:jasraj2626@gmail.com">jasraj2626@gmail.com</a
 
 ---
 
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img height="180em" alt="Rajveer's GitHub stats" src="./profile/stats.svg"/>
+  <img height="180em" alt="Most used languages" src="./profile/top-langs.svg"/>
+  <br/>
+  <img alt="Contribution streak" src="./profile/streak.svg"/>
+  <br/>
+  <sub><em>Generated once a day by <a href="./.github/workflows/readme-cards.yml">a GitHub Action</a> and committed to this repo. Nothing is fetched when you load this page, and nothing can rate limit it.</em></sub>
+</div>
+
+---
+
 ### Featured Projects
 
 **Quotely** ([`Qoutely`](https://github.com/rajveersingh2626/Qoutely))
